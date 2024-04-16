@@ -5,7 +5,7 @@ Ce projet contient une application Wordpress déployée avec Docker Compose. L'a
 ## Structure du projet
 
 ```markdown
-mon_projet_wordpress/
+ChallengeDockerCompose/
 ├── docker/
 │ └── docker-compose.yml
 ├── wordpress/
